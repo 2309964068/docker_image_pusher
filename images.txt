@@ -1,4 +1,4 @@
-image: docker.getcollate.io/openmetadata/db:1.4.3
-image: docker.elastic.co/elasticsearch/elasticsearch:8.10.2
-image: docker.getcollate.io/openmetadata/server:1.4.3
-image: docker.getcollate.io/openmetadata/ingestion:1.4.3
+docker.getcollate.io/openmetadata/db:1.4.3
+docker.elastic.co/elasticsearch/elasticsearch:8.10.2
+docker.getcollate.io/openmetadata/server:1.4.3
+docker.getcollate.io/openmetadata/ingestion:1.4.3
